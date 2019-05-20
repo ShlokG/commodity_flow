@@ -251,9 +251,10 @@ shinyServer(function(input, output, session) {
     the specified areas in the given direction.<br/>"
     str4 <- "If you chose \"Percent of Total\" for the type of units, this will give the percent
     of trade flows coming from the specified transportation method. This number is meaningless
-    for net inflows."
-    str5 <- "Cite: I used  the US Census Bureau's Commodity Flow Survey for 2007."
-    HTML(paste(str1, str2, str3, str4, str5, sep = '<br/>'))
+    for net inflows.<br/>"
+    str5 <- "Trade Amount is in millions of US dollars.<br/>"
+    str6 <- "Cite: I used  the US Census Bureau's Commodity Flow Survey for 2007."
+    HTML(paste(str1, str2, str3, str4, str5, str6, sep = '<br/>'))
   })
   
 })

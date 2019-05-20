@@ -39,5 +39,7 @@ shinyUI(navbarPage("Trade Flows",
                             ),
                             mainPanel(h3(textOutput("caption2")),
                                       plotOutput("map2"))
-                   )
+                   ),
+                   tabPanel("Help",
+                            mainPanel(h4(htmlOutput("caption4"))))
 ))
