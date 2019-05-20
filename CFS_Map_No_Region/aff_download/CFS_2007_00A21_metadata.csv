@@ -1,0 +1,22 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+DDESTGEO.id,Domestic destination geographic area code
+DDESTGEO.display-label,Meaning of Domestic destination geographic area code
+DMODE.id,Mode category
+DMODE.display-label,Meaning of Mode category
+YEAR.id,Year
+VAL,Value ($million)
+VALP,Value (percent of total)
+TON,Tons (thousands)
+TONP,Tons (percent of total)
+TMILE,Ton-miles (millions)
+TMILEP,Ton-miles (percent of total)
+AVGMILE,Average miles per shipment (number)
+VAL_S,Coefficient of variation for Value
+VALP_S,Standard error for Value (percent of total)
+TON_S,Coefficient of variation for Tons
+TONP_S,Standard error for Tons (percent of total)
+TMILE_S,Coefficient of variation for Ton-miles
+TMILEP_S,Standard error for Ton-miles (percent of total)
+AVGMILE_S,Coefficient of variation for Average miles per shipment
