@@ -1,6 +1,8 @@
 library(shiny)
 library(ggmap)
 
+memory.limit(40000)
+
 counties = map_data("county")
 data(state)
 
