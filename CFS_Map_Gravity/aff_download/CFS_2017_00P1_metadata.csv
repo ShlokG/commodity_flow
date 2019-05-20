@@ -1,0 +1,20 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+DMODE.id,Mode category code
+DMODE.display-label,Meaning of Mode category code
+YEAR.id,Year
+VAL,Value ($ Millions)
+VALP,Value (Percent of Total)
+TON,Tons (Thousands)
+TONP,Tons (Percent of Total)
+TMILE,Ton-Miles (Millions)
+TMILEP,Ton-Miles (Percent of Total)
+AVGMILE,Average Miles per Shipment (Number)
+VAL_S,Coefficient of Variation for Value
+VALP_S,Standard Error for Value (Percent of Total)
+TON_S,Coefficient of Variation for Tons
+TONP_S,Standard Error for Tons (Percent of Total)
+TMILE_S,Coefficient of Variation for Ton-Miles
+TMILEP_S,Standard Error for Ton-Miles (Percent of Total)
+AVGMILE_S,Coefficient of Variation for Average Miles per Shipment

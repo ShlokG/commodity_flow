@@ -1,0 +1,69 @@
+"SAGDP2N Gross domestic product (GDP) by state 1/"
+"Gross domestic product (GDP) by state: All industry total (Millions of current dollars)" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","2007","2012"
+"00000","United States*",14451860.0,16197007.0
+"01000","Alabama",169678.4,186299.0
+"02000","Alaska",48972.6,57670.1
+"04000","Arizona",262322.0,268288.8
+"05000","Arkansas",96948.2,108745.2
+"06000","California",1955856.0,2144497.3
+"08000","Colorado",246043.5,273519.5
+"09000","Connecticut",237542.7,243801.0
+"10000","Delaware",56278.5,61975.8
+"11000","District of Columbia",93970.0,112736.5
+"12000","Florida",768661.0,769309.1
+"13000","Georgia",415131.9,444132.2
+"15000","Hawaii",65233.5,73582.7
+"16000","Idaho",53852.1,57764.4
+"17000","Illinois",647862.1,720702.3
+"18000","Indiana",269053.6,297552.7
+"19000","Iowa",136977.0,157250.8
+"20000","Kansas",122453.3,140477.8
+"21000","Kentucky",154531.7,176302.3
+"22000","Louisiana",206641.1,233623.1
+"23000","Maine",49148.6,52874.0
+"24000","Maryland",287872.8,334821.6
+"25000","Massachusetts",379877.2,444329.8
+"26000","Michigan",403735.8,418857.4
+"27000","Minnesota",258827.2,294296.6
+"28000","Mississippi",91057.6,99614.6
+"29000","Missouri",240158.8,268761.5
+"30000","Montana",36074.1,42005.8
+"31000","Nebraska",83122.8,102269.0
+"32000","Nevada",131599.8,128043.0
+"33000","New Hampshire",60732.7,67689.2
+"34000","New Jersey",480539.0,519745.8
+"35000","New Mexico",80572.8,87601.6
+"36000","New York",1108896.0,1322447.9
+"37000","North Carolina",396347.6,439571.0
+"38000","North Dakota",28679.7,51345.1
+"39000","Ohio",490965.0,540819.3
+"40000","Oklahoma",144893.3,173483.7
+"41000","Oregon",161512.0,174493.1
+"42000","Pennsylvania",560753.4,641317.3
+"44000","Rhode Island",47845.6,51642.0
+"45000","South Carolina",159362.5,175374.8
+"46000","South Dakota",34701.6,43444.6
+"47000","Tennessee",244252.4,283721.8
+"48000","Texas",1178583.1,1411378.7
+"49000","Utah",114652.7,128721.0
+"50000","Vermont",24696.8,28887.4
+"51000","Virginia",392917.3,444950.0
+"53000","Washington",346442.8,400863.3
+"54000","West Virginia",58635.8,69399.0
+"55000","Wisconsin",243766.7,274343.9
+"56000","Wyoming",36602.5,38431.7
+"91000","New England",799843.5,889223.3
+"92000","Mideast",2588309.7,2993044.9
+"93000","Great Lakes",2055383.1,2252275.7
+"94000","Plains",904920.4,1057845.4
+"95000","Southeast",3154165.3,3431042.1
+"96000","Southwest",1666371.1,1940752.8
+"97000","Rocky Mountain",487224.8,540442.4
+"98000","Far West",2709616.6,2979149.5
+"Legend / Footnotes:"
+"1/ Gross Domestic Product (GDP) is in millions of current dollars (not adjusted for inflation). Industry detail is based on the 2012 North American Industry Classification System (NAICS). Calculations are performed on unrounded data."
+"* The difference between the United States and sum-of-states reflects overseas activity, economic activity taking place outside the borders of the United States by the military and associated federal civilian support staff."
+"Last updated: May 1, 2019-- new statistics for 2018; revised statistics for 2015-2017."

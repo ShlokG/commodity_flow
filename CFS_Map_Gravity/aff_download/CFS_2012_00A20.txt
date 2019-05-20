@@ -1,0 +1,67 @@
+CF1200A20
+Geographic Area Series: Shipment Characteristics by Origin Geography by Destination Geography: 2012
+
+Release Date : 12/09/2014
+
+The estimates presented are based on data from the 2012 Commodity Flow Surveys (CFS) and supersede data previously released in the 2012 CFS Preliminary Report. These estimates only cover businesses with paid employees. All dollar values are expressed in current dollars, i.e., they are based on price levels in effect at the time of the sample. Estimates may not be additive due to rounding. 
+
+Due to definitional and processing changes made each survey year, any data comparisons between one CFS survey and another should be made with caution. See the Comparability of Estimates section of the Survey Methodology for more details. 
+For information on Commodity Flow Survey geographies, including changes for 2012, see Census Geographies. 
+
+ 
+  
+  Table Name 
+   Geographic Area Series: Shipment Characteristics by Origin Geography by Destination Geography: 2012  
+  
+  
+  ReleaseSchedule 
+   The data in this file are scheduled for release in December 2014. 
+  
+  
+  Key TableInformation 
+  None. 
+  
+  
+  Universe 
+   The 2012 Commodity Flow Survey (CFS) covers business establishments with paid employees that are located in the United States and are classified using the 2007 North American Industry Classification System (NAICS) in mining, manufacturing, wholesale trade, and selected retail trade and services industries, namely, electronic shopping and mail-order houses, fuel dealers, and publishers. Establishments classified in transportation, construction, and all other retail and services industries are excluded from the survey. Farms, fisheries, foreign establishments, and most government-owned establishments are also excluded.The survey also covers auxiliary establishments (i.e., warehouses and managing offices) of multi-establishments companies. For the 2012 CFS, an advance survey (pre-canvass) of approximately 100,000 establishments was conducted to identify establishments with shipping activity and to try and obtain an accurate measure of their shipping activity. Surveyed establishments that indicated undertaking shipping activities and the non-respondents to the pre-canvass were included in the CFS sample universe. 
+  
+  
+  GeographyCoverage 
+   The data are shown at the U.S., region, division, state, and CFS metropolitan area levels. 
+  
+  
+  IndustryCoverage 
+  None. 
+  
+  
+  Data ItemsandOtherIdentifyingRecords 
+   This file contains data on: 
+    
+    Value ($ Millions) 
+    Tons (Thousands) 
+    Ton-miles (Millions) 
+    Average miles per shipment (number) 
+    Coefficient of variation or standard error for all above data items 
+    The data are shown by destination geography (DDESTGEO)..  
+  
+  
+  Sort Order 
+  Data are presented in ascending DDESTGEO by geography (GEO_ID) sequence. 
+  
+  
+  FTP Download 
+   Download the entire table at Table 20 FTP  
+  
+  
+  ContactInformation 
+  U.S. Census Bureau Commodity Flow Survey Tel: (301)763-2108 Email: erd.cfs@census.gov 
+  
+
+
+S	Withheld because estimate did not meet publication standards
+
+Source: U.S. Department of Transportation, Bureau of Transportation Statistics and U.S. Census Bureau, 2012 Commodity Flow Survey. 
+Note: The noise infusion data protection method has been applied to prevent data disclosure, and to protect respondent's confidentiality. Estimates are based on a sample of establishments and are subject to both sampling and nonsampling error. Estimated measures of sampling variability are provided in the tables. For information on confidentiality protection, sampling error, and nonsampling error see Survey Methodology.
+
+Symbols: S - Withheld because estimate did not meet publication standards. Z - Rounds to Zero. X - Not Applicable. For a complete list of all economic programs symbols, see the Symbols Glossary.
+

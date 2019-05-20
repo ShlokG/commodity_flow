@@ -1,0 +1,14 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+DDESTGEO.id,Domestic destination geographic area code
+DDESTGEO.display-label,Meaning of Domestic destination geographic area code
+YEAR.id,Year
+VAL,Value ($ million)
+TON,Tons (thousands)
+TMILE,Ton-miles (millions)
+AVGMILE,Average miles per shipment (number)
+VAL_S,Coefficient of variation for Value
+TON_S,Coefficient of variation for Tons
+TMILE_S,Coefficient of variation for Ton-miles
+AVGMILE_S,Coefficient of variation for Average miles per shipment
