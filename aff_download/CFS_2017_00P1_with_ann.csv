@@ -1,0 +1,22 @@
+GEO.id,GEO.id2,GEO.display-label,DMODE.id,DMODE.display-label,YEAR.id,VAL,VALP,TON,TONP,TMILE,TMILEP,AVGMILE,VAL_S,VALP_S,TON_S,TONP_S,TMILE_S,TMILEP_S,AVGMILE_S
+Geographic identifier code,Id2,Geographic area name,Mode category code,Meaning of Mode category code,Year,Value ($ Millions),Value (Percent of Total),Tons (Thousands),Tons (Percent of Total),Ton-Miles (Millions),Ton-Miles (Percent of Total),Average Miles per Shipment (Number),Coefficient of Variation for Value,Standard Error for Value (Percent of Total),Coefficient of Variation for Tons,Standard Error for Tons (Percent of Total),Coefficient of Variation for Ton-Miles,Standard Error for Ton-Miles (Percent of Total),Coefficient of Variation for Average Miles per Shipment
+0100000US,,United States,001,All modes,2017,14366611,100.0,12478849,100.0,3130697,100.0,633,0.8,0.0,1.6,0.0,4.5,0.0,2.3
+0100000US,,United States,02,Single modes,2017,11642939,81.0,11496515,92.1,2399208,76.6,222,0.9,0.2,1.8,0.4,5.1,1.0,3.0
+0100000US,,United States,03,Truck,2017,10490038,73.0,8925313,71.5,1301054,41.6,188,1.1,0.3,1.1,0.7,1.1,1.7,3.7
+0100000US,,United States,04,For-hire truck,2017,7257437,50.5,5568811,44.6,1142613,36.5,325,0.8,0.2,1.3,0.4,1.2,1.5,5.7
+0100000US,,United States,05,Company-owned truck,2017,3232602,22.5,3356501,26.9,158441,5.1,46,2.1,0.3,1.3,0.4,1.7,0.2,1.8
+0100000US,,United States,06,Rail,2017,203432,1.4,1156760,9.3,842716,26.9,554,6.6,0.1,8.8,0.7,12.5,2.1,9.2
+0100000US,,United States,07,Water,2017,145179,1.0,561634,4.5,175829,5.6,225,5.5,0.1,8.7,0.4,16.0,0.7,15.5
+0100000US,,United States,08,Inland water,2017,59246,0.4,288697,2.3,119297,3.8,256,11.3,Z,11.9,0.3,19.3,0.6,12.7
+0100000US,,United States,09,Great Lakes,2017,733,Z,55564,0.4,20778,0.7,290,18.6,Z,40.3,0.2,38.3,0.2,8.3
+0100000US,,United States,10,Deep sea,2017,80426,0.6,202146,1.6,28337,0.9,215,7.0,Z,10.9,0.2,18.9,0.2,31.1
+0100000US,,United States,101,Multiple waterways,2017,4774,Z,15228,0.1,7417,0.2,S,40.4,Z,45.4,0.1,46.7,0.1,S
+0100000US,,United States,11,Air (incl truck and air),2017,408772,2.8,5745,Z,6853,0.2,1437,2.6,0.1,4.3,Z,5.8,Z,2.9
+0100000US,,United States,12,Pipeline,2017,395517,2.8,847063,6.8,S,S,S,7.3,0.2,6.7,0.4,S,S,S
+0100000US,,United States,13,Multiple modes,2017,2720518,18.9,856355,6.9,731363,23.4,890,1.4,0.2,5.1,0.3,5.1,1.0,2.1
+0100000US,,United States,14,"Parcel, U.S.P.S. or courier",2017,2037533,14.2,36040,0.3,27182,0.9,890,1.7,0.2,1.7,Z,1.3,Z,2.1
+0100000US,,United States,15,Truck and rail,2017,459933,3.2,650615,5.2,577100,18.4,1140,4.8,0.1,7.0,0.4,5.6,1.0,2.8
+0100000US,,United States,16,Truck and water,2017,178624,1.2,81063,0.6,43228,1.4,994,1.2,Z,5.5,Z,7.7,0.1,6.1
+0100000US,,United States,17,Rail and water,2017,21485,0.1,75996,0.6,70177,2.2,1306,23.6,Z,16.2,0.1,20.7,0.4,8.7
+0100000US,,United States,18,Other multiple modes,2017,22944,0.2,12642,0.1,13676,0.4,1429,9.8,Z,9.8,Z,7.5,Z,5.2
+0100000US,,United States,19,Other modes,2017,3153,Z,125979,1.0,126,Z,1,27.2,Z,35.8,0.4,35.8,Z,0.0
